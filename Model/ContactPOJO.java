@@ -1,6 +1,6 @@
 package com.adressBook;
 
-public class ContactPOJO {
+ public class ContactPOJO {
   private String firstName;
     private String lastName;
     private String address;
